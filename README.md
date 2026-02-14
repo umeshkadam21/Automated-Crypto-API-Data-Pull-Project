@@ -36,11 +36,9 @@ The goal is to streamline crypto market analysis through automation and reproduc
 ```
 Automated-Crypto-API-Data-Pull/
 │
-├── crypto_data_pull.py        # Main automation script
-├── data/                      # Stored raw & processed data
-├── visualizations/            # Generated charts & graphs
-├── requirements.txt           # Project dependencies
-└── README.md                  # Project documentation
+├── Automated Crypto API Data Pull Using Python.ipynb      # Main automation script, Generated charts & graphs
+├── API.csv/                                               # Stored raw & processed data
+└── README.md                                              # Project documentation
 ```
 
 
